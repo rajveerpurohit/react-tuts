@@ -4,3 +4,8 @@ This is just a read me file.
 second commit
 /*This line should not be seen in git main branch*/
 /*This line should not be seen in git main branch*/
+
+
+test merge
+/*This line should not be seen in git main branch*/
+/*This line should not be seen in git main branch*/
